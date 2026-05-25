@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-468-blueviolet?style=flat-square" alt="Cases"></a>
+  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-469-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
 </p>
 
@@ -50,7 +50,7 @@ The core goal is simple: compress prose-style prompts into structured protocols.
 
 - [Full case gallery](docs/gallery.md)
 - [Gallery Part 1: cases 1-165](docs/gallery-part-1.md)
-- [Gallery Part 2: cases 166-468](docs/gallery-part-2.md)
+- [Gallery Part 2: cases 166-469](docs/gallery-part-2.md)
 - [Industrial prompt templates and pitfalls guide](docs/templates.md)
 - [Agent skill: GPT-Image2 Style Library](agents/skills/gpt-image-2-style-library/SKILL.md)
 - [MIT License](LICENSE)
@@ -71,7 +71,7 @@ Start with the case album to find a visual direction, then open the prompt templ
       <a href="docs/gallery.md#cat-ui"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>📊 Charts & Infographics</strong><br><sub>50 cases</sub></p>
+      <p><strong>📊 Charts & Infographics</strong><br><sub>51 cases</sub></p>
       <a href="docs/gallery.md#cat-infographic"><img src="data/images/category-covers/infographic.jpg" alt="Charts and infographics" width="220"></a><br>
       <sub>Infographics, knowledge maps, technical explainers, and structured diagrams.</sub><br>
       <a href="docs/gallery.md#cat-infographic"><strong>View Cases</strong></a>
@@ -153,14 +153,14 @@ Start with the case album to find a visual direction, then open the prompt templ
     <td width="33%" valign="top" align="center">
       <h4>🖼️ Full Gallery</h4>
       <a href="docs/gallery.md"><img src="data/images/category-covers/gallery.jpg" alt="Full gallery" width="220"></a><br>
-      <sub>Browse all 468 cases by gallery part and category.</sub><br>
+      <sub>Browse all 469 cases by gallery part and category.</sub><br>
       <a href="docs/gallery.md"><strong>Open Gallery</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⭐ Latest Additions</h4>
-      <a href="docs/gallery-part-2.md#case-468"><img src="data/images/case468.jpg" alt="Latest additions" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#case-469"><img src="data/images/case469.jpg" alt="Latest additions" width="220"></a><br>
       <sub>The newest community cases and workflows collected in the repo.</sub><br>
-      <a href="docs/gallery-part-2.md#case-468"><strong>View Latest</strong></a>
+      <a href="docs/gallery-part-2.md#case-469"><strong>View Latest</strong></a>
     </td>
   </tr>
 </table>
@@ -428,22 +428,10 @@ Only the latest collection and import run is shown here. Older imports stay in t
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>Case 466: Chaotic Cat Chase Digicam Snapshot</strong></p>
-      <a href="docs/gallery-part-2.md#case-466"><img src="data/images/case466.jpg" alt="Chaotic cat chase digicam snapshot" width="150"></a><br>
-      <sub>A low-angle fisheye prompt for a raw early-2000s street snapshot with identity preservation, motion blur, flash, and Y2K styling.</sub><br>
-      <a href="docs/gallery-part-2.md#case-466"><strong>View Case</strong></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <p><strong>Case 467: Swimsuit Magazine Nine-Grid Ad</strong></p>
-      <a href="docs/gallery-part-2.md#case-467"><img src="data/images/case467.jpg" alt="Swimsuit magazine nine-grid ad" width="150"></a><br>
-      <sub>A compact prompt for a consistent nine-grid fashion magazine ad page with varied swimsuit poses and styling.</sub><br>
-      <a href="docs/gallery-part-2.md#case-467"><strong>View Case</strong></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <p><strong>Case 468: Neon Doodle Expo Selfie</strong></p>
-      <a href="docs/gallery-part-2.md#case-468"><img src="data/images/case468.jpg" alt="Neon doodle expo selfie" width="150"></a><br>
-      <sub>A phone-photo prompt combining exhibition lighting, translucent neon doodle styling, ancient-inspired hair accessories, and realistic selfie framing.</sub><br>
-      <a href="docs/gallery-part-2.md#case-468"><strong>View Case</strong></a>
+      <p><strong>Case 469: Guided Science Picture Book</strong></p>
+      <a href="docs/gallery-part-2.md#case-469"><img src="data/images/case469.jpg" alt="Guided science picture book" width="150"></a><br>
+      <sub>A reusable educational picture-book prompt for large scenes, route paths, cute guide IP, knowledge stops, and child-friendly infographic labels.</sub><br>
+      <a href="docs/gallery-part-2.md#case-469"><strong>View Case</strong></a>
     </td>
   </tr>
 </table>

@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 468。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 469。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-468](./gallery-part-2.md)
+- [Part 2：例 166-469](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -136,16 +136,17 @@
 - [例 466：鱼市追猫 CCD 街拍](./gallery-part-2.md#case-466)
 - [例 467：泳装杂志九宫格广告页](./gallery-part-2.md#case-467)
 - [例 468：霓虹涂鸦展会自拍](./gallery-part-2.md#case-468)
+- [例 469：导览式科普绘本](./gallery-part-2.md#case-469)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-468，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-469，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
 - UI与界面：73
-- 图表与信息可视化：50
+- 图表与信息可视化：51
 - 海报与排版：73
 - 商品与电商：35
 - 品牌与标志：23
@@ -232,7 +233,7 @@
 
 <a name="cat-infographic"></a>
 
-### 📊 图表与信息可视化 · 50 cases
+### 📊 图表与信息可视化 · 51 cases
 
 - [例 8：科普百科图](./gallery-part-1.md#case-8)
 - [例 14：信息图可视化设计](./gallery-part-1.md#case-14)
@@ -283,6 +284,7 @@
 - [例 447：现代地铁工程信息图](./gallery-part-2.md#case-447)
 - [例 456：历史事件 2x2 可视化地图](./gallery-part-2.md#case-456)
 - [例 457：运动轨迹舞者光绘海报](./gallery-part-2.md#case-457)
+- [例 469：导览式科普绘本](./gallery-part-2.md#case-469)
 - [例 463：黑色吊带袜单款图鉴展示](./gallery-part-2.md#case-463)
 
 <a name="cat-poster"></a>

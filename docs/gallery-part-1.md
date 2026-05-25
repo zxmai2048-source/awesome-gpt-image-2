@@ -1,4 +1,4 @@
-> [返回 README 首页](../README.md) | [画廊总览](./gallery.md) | [下一册：例 166-468](./gallery-part-2.md)
+> [返回 README 首页](../README.md) | [画廊总览](./gallery.md) | [下一册：例 166-469](./gallery-part-2.md)
 
 <a name="section-gallery"></a>
 
