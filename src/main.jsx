@@ -39,6 +39,8 @@ import skillExampleImage from '../agents/skills/gpt-image-2-style-library/assets
 
 const fallbackRepoUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
 const gaMeasurementId = import.meta.env.VITE_GA_MEASUREMENT_ID;
+const watchaLogoUrl =
+  'https://watcha.tos-cn-beijing.volces.com/products/logo/1752064513_guan-cha-insights.png?x-tos-process=image/resize,w_720/format,webp';
 
 const copy = {
   en: {
@@ -125,11 +127,16 @@ const copy = {
     authRequired: 'Sign in to generate a test image.',
     signIn: 'Sign in',
     signInTitle: 'Sign in to generate test images',
-    signInSubtitle: 'Use your Google account to unlock image generation, credits, and membership features.',
-    authRateLimited: 'Too many login attempts. Please wait a bit, then try Google sign-in again.',
+    signInSubtitle: 'Use Google or Watcha to unlock image generation, credits, and membership features.',
+    authRateLimited: 'Too many login attempts. Please wait a bit, then try again.',
     googleNotConfigured: 'Google sign-in is not enabled yet.',
     continueWithGoogle: 'Continue with Google',
+    continueWithWatcha: 'Continue with Watcha',
     authNotConfigured: 'Login is not configured yet.',
+    watchaNotConfigured: 'Watcha sign-in is not configured yet.',
+    watchaSessionExpired: 'Watcha sign-in expired. Please try again.',
+    watchaDenied: 'Watcha authorization was cancelled.',
+    watchaLoginFailed: 'Watcha sign-in failed. Please try again.',
     authError: 'Login failed. Please try again.',
     signOut: 'Sign out',
     account: 'Account',
@@ -140,7 +147,7 @@ const copy = {
     saveProfile: 'Save profile',
     profileSaved: 'Profile saved.',
     profileUpdateFailed: 'Profile update failed. Please try again.',
-    googleAvatarSource: 'Avatar is synced from your Google account.',
+    googleAvatarSource: 'Avatar is synced from your login provider.',
     accountOverview: 'Account overview',
     totalGenerations: 'Generated tests',
     totalGenerationCredits: 'Credits spent',
@@ -329,11 +336,16 @@ const copy = {
     authRequired: '登录后即可生成测试图。',
     signIn: '登录',
     signInTitle: '登录后生成测试图',
-    signInSubtitle: '使用你的 Google 账号登录，解锁生图测试、积分和会员能力。',
-    authRateLimited: '登录尝试过于频繁，请稍后再使用 Google 登录。',
+    signInSubtitle: '使用 Google 或观猹登录，解锁生图测试、积分和会员能力。',
+    authRateLimited: '登录尝试过于频繁，请稍后再试。',
     googleNotConfigured: 'Google 登录还没有启用。',
     continueWithGoogle: '使用 Google 登录',
+    continueWithWatcha: '使用观猹登录',
     authNotConfigured: '登录功能还没有完成配置。',
+    watchaNotConfigured: '观猹登录还没有完成配置。',
+    watchaSessionExpired: '观猹登录已过期，请重新尝试。',
+    watchaDenied: '已取消观猹授权。',
+    watchaLoginFailed: '观猹登录失败，请稍后再试。',
     authError: '登录失败，请稍后再试。',
     signOut: '退出登录',
     account: '账号',
@@ -344,7 +356,7 @@ const copy = {
     saveProfile: '保存资料',
     profileSaved: '资料已保存。',
     profileUpdateFailed: '资料保存失败，请稍后再试。',
-    googleAvatarSource: '头像会同步你的 Google 账号头像。',
+    googleAvatarSource: '头像会同步你的登录账号头像。',
     accountOverview: '账户概览',
     totalGenerations: '生成测试数',
     totalGenerationCredits: '已消耗积分',
@@ -1119,6 +1131,16 @@ function authErrorMessage(error, language) {
   return message || t.authError;
 }
 
+function authRedirectErrorMessage(code, language) {
+  const t = copy[language];
+  if (code === 'watcha_not_configured') return t.watchaNotConfigured;
+  if (code === 'supabase_not_configured') return t.authNotConfigured;
+  if (code === 'watcha_state_failed') return t.watchaSessionExpired;
+  if (code === 'watcha_denied') return t.watchaDenied;
+  if (code === 'watcha_login_failed') return t.watchaLoginFailed;
+  return t.authError;
+}
+
 function GoogleIcon() {
   return (
     <svg className="googleIcon" viewBox="0 0 18 18" aria-hidden="true" focusable="false">
@@ -1130,7 +1152,11 @@ function GoogleIcon() {
   );
 }
 
-function AuthModal({ open, language, onClose }) {
+function WatchaIcon() {
+  return <img className="watchaIcon" src={watchaLogoUrl} alt="" aria-hidden="true" loading="lazy" />;
+}
+
+function AuthModal({ open, language, initialErrorCode, onClose }) {
   const t = copy[language];
   const [status, setStatus] = useState('idle');
   const [message, setMessage] = useState('');
@@ -1138,13 +1164,19 @@ function AuthModal({ open, language, onClose }) {
 
   useEffect(() => {
     if (!open) return;
+    if (initialErrorCode) {
+      setStatus('error');
+      setMessage(authRedirectErrorMessage(initialErrorCode, language));
+      return;
+    }
     setStatus('idle');
     setMessage('');
-  }, [open]);
+  }, [open, initialErrorCode, language]);
 
   if (!open) return null;
 
   const redirectTo = `${window.location.origin}${window.location.pathname}`;
+  const isLoading = status === 'loading-google' || status === 'loading-watcha';
 
   async function handleGoogleSignIn() {
     if (!isSupabaseConfigured || !supabase) {
@@ -1153,7 +1185,7 @@ function AuthModal({ open, language, onClose }) {
       return;
     }
 
-    setStatus('loading');
+    setStatus('loading-google');
     setMessage('');
     const { error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
@@ -1166,6 +1198,18 @@ function AuthModal({ open, language, onClose }) {
       setStatus('error');
       setMessage(authErrorMessage(error, language));
     }
+  }
+
+  function handleWatchaSignIn() {
+    if (!isSupabaseConfigured || !supabase) {
+      setStatus('error');
+      setMessage(t.authNotConfigured);
+      return;
+    }
+
+    setStatus('loading-watcha');
+    setMessage('');
+    window.location.assign(`/api/auth/watcha/start?returnTo=${encodeURIComponent(redirectTo)}`);
   }
 
   return (
@@ -1185,10 +1229,16 @@ function AuthModal({ open, language, onClose }) {
         </div>
         <h2 id="auth-title">{t.signInTitle}</h2>
         <p>{t.signInSubtitle}</p>
-        <button className="googleButton" type="button" onClick={handleGoogleSignIn} disabled={status === 'loading'}>
-          {status === 'loading' ? <LoaderCircle className="spinIcon" size={18} /> : <GoogleIcon />}
-          {t.continueWithGoogle}
-        </button>
+        <div className="authProviders" aria-label={t.signInTitle}>
+          <button className="googleButton" type="button" onClick={handleGoogleSignIn} disabled={isLoading}>
+            {status === 'loading-google' ? <LoaderCircle className="spinIcon" size={18} /> : <GoogleIcon />}
+            {t.continueWithGoogle}
+          </button>
+          <button className="watchaButton" type="button" onClick={handleWatchaSignIn} disabled={isLoading}>
+            {status === 'loading-watcha' ? <LoaderCircle className="spinIcon" size={18} /> : <WatchaIcon />}
+            {t.continueWithWatcha}
+          </button>
+        </div>
         {message ? (
           <p className={cx('authMessage', status === 'error' && 'error', status === 'sent' && 'sent')}>
             {message}
@@ -2942,6 +2992,7 @@ function App() {
   const [favoriteBusyId, setFavoriteBusyId] = useState(null);
   const [favoriteMessage, setFavoriteMessage] = useState('');
   const [authOpen, setAuthOpen] = useState(false);
+  const [authErrorCode, setAuthErrorCode] = useState('');
   const [accountOpen, setAccountOpen] = useState(false);
   const [accountInitialSection, setAccountInitialSection] = useState('overview');
   const [adminOpen, setAdminOpen] = useState(false);
@@ -2972,6 +3023,20 @@ function App() {
     localStorage.setItem('language', language);
     document.documentElement.lang = language === 'zh' ? 'zh-CN' : 'en';
   }, [language]);
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const authError = params.get('auth_error');
+    if (!authError) return;
+
+    setAuthErrorCode(authError);
+    setAuthOpen(true);
+    params.delete('auth_error');
+    params.delete('auth_provider');
+    const nextSearch = params.toString();
+    const nextUrl = `${window.location.pathname}${nextSearch ? `?${nextSearch}` : ''}${window.location.hash}`;
+    window.history.replaceState({}, '', nextUrl);
+  }, []);
 
   useEffect(() => {
     if (!isSupabaseConfigured || !supabase) return undefined;
@@ -3071,6 +3136,11 @@ function App() {
       target.scrollIntoView({ block: 'start' });
     });
   }, [siteData, styleLibrary]);
+
+  function openAuth() {
+    setAuthErrorCode('');
+    setAuthOpen(true);
+  }
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -3177,7 +3247,7 @@ function App() {
   async function handleToggleFavorite(caseItem) {
     if (!caseItem?.id) return;
     if (!session?.access_token) {
-      setAuthOpen(true);
+      openAuth();
       setTimedFavoriteMessage(t.signInToFavorite);
       return;
     }
@@ -3208,7 +3278,7 @@ function App() {
       const payload = await response.json().catch(() => ({}));
 
       if (!response.ok || !payload.ok) {
-        if (payload.error === 'AUTH_REQUIRED' || payload.loginRequired) setAuthOpen(true);
+        if (payload.error === 'AUTH_REQUIRED' || payload.loginRequired) openAuth();
         throw new Error(payload.error || 'FAVORITE_FAILED');
       }
 
@@ -3276,7 +3346,7 @@ function App() {
             language={language}
             session={session}
             profile={profile}
-            onSignIn={() => setAuthOpen(true)}
+            onSignIn={openAuth}
             onSignOut={handleSignOut}
             onAccount={() => handleOpenAccount('overview')}
             onFavorites={() => handleOpenAccount('favorites')}
@@ -3385,7 +3455,7 @@ function App() {
               onOpen={(item) => setPreview({ type: 'case', item })}
               onGenerate={(item) => {
                 setPreview({ type: 'case', item });
-                if (!session?.access_token) setAuthOpen(true);
+                if (!session?.access_token) openAuth();
               }}
               onToggleFavorite={handleToggleFavorite}
               styleLibrary={styleLibrary}
@@ -3420,7 +3490,7 @@ function App() {
         onClose={() => setPreview(null)}
         onCopyText={copyText}
         onToggleFavorite={handleToggleFavorite}
-        onAuthRequired={() => setAuthOpen(true)}
+        onAuthRequired={openAuth}
         onBillingRequired={() => {
           setBillingNotice(t.creditsRequired);
           setBillingOpen(true);
@@ -3430,7 +3500,11 @@ function App() {
       <AuthModal
         open={authOpen}
         language={language}
-        onClose={() => setAuthOpen(false)}
+        initialErrorCode={authErrorCode}
+        onClose={() => {
+          setAuthOpen(false);
+          setAuthErrorCode('');
+        }}
       />
       <AccountPanel
         open={accountOpen}
@@ -3465,7 +3539,7 @@ function App() {
         notice={billingNotice}
         casesById={casesById}
         onClose={() => setBillingOpen(false)}
-        onAuthRequired={() => setAuthOpen(true)}
+        onAuthRequired={openAuth}
         onProfileChange={handleProfileChange}
         onOpenCase={handleOpenCaseFromAccount}
       />

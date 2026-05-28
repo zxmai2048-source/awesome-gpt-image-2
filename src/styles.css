@@ -1878,6 +1878,7 @@ button {
 }
 
 .googleButton,
+.watchaButton,
 .adminHeader button {
   display: inline-flex;
   align-items: center;
@@ -1892,9 +1893,14 @@ button {
   font-weight: 900;
 }
 
+.authProviders {
+  display: grid;
+  gap: 12px;
+  margin-top: 24px;
+}
+
 .googleButton {
   width: 100%;
-  margin-top: 24px;
   min-height: 44px;
   border-color: #dadce0;
   background: #ffffff;
@@ -1912,13 +1918,38 @@ button {
   box-shadow: 0 2px 6px rgba(26, 115, 232, 0.18);
 }
 
+.watchaButton {
+  width: 100%;
+  min-height: 44px;
+  border-color: rgba(64, 213, 117, 0.48);
+  background: linear-gradient(135deg, rgba(15, 185, 93, 0.92), rgba(5, 137, 75, 0.9));
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  box-shadow: 0 10px 28px rgba(5, 137, 75, 0.22);
+}
+
+.watchaButton:hover {
+  border-color: rgba(135, 255, 183, 0.72);
+  background: linear-gradient(135deg, rgba(30, 205, 112, 0.96), rgba(7, 154, 84, 0.94));
+}
+
 .googleIcon {
   width: 18px;
   height: 18px;
   flex: 0 0 auto;
 }
 
+.watchaIcon {
+  width: 22px;
+  height: 22px;
+  flex: 0 0 auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
 .googleButton:disabled,
+.watchaButton:disabled,
 .adminHeader button:disabled {
   cursor: not-allowed;
   opacity: 0.6;
