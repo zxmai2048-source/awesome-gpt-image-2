@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 490,
+  "totalCases": 497,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,158 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 500,
+      "title": "梦幻花冠仙境肖像",
+      "image": "/images/case500.jpg",
+      "imageAlt": "梦幻花冠仙境肖像",
+      "sourceLabel": "@HaniaAi12",
+      "sourceUrl": "https://x.com/HaniaAi12/status/2062696495741391006",
+      "prompt": "Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.\n\nThe scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.",
+      "promptPreview": "Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her f",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-500"
+    },
+    {
+      "id": 499,
+      "title": "极简精品店全身时尚写真",
+      "image": "/images/case499.jpg",
+      "imageAlt": "极简精品店全身时尚写真",
+      "sourceLabel": "@john_my07",
+      "sourceUrl": "https://x.com/john_my07/status/2062579742759649486",
+      "prompt": "A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.",
+      "promptPreview": "A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscal",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic",
+        "Character"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-499"
+    },
+    {
+      "id": 498,
+      "title": "铅笔画背景 3D 分身",
+      "image": "/images/case498.jpg",
+      "imageAlt": "铅笔画背景 3D 分身",
+      "sourceLabel": "@AIwithkhan",
+      "sourceUrl": "https://x.com/AIwithkhan/status/2062567518389391540",
+      "prompt": "Create a handrawn pencil illustration of [image] yawning on paper, as background.\n\nAdd a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio",
+      "promptPreview": "Create a handrawn pencil illustration of [image] yawning on paper, as background. Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K res",
+      "category": "Illustration & Art",
+      "styles": [
+        "Illustration",
+        "3D"
+      ],
+      "scenes": [
+        "Commerce"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-498"
+    },
+    {
+      "id": 497,
+      "title": "单色水彩城市旅行海报",
+      "image": "/images/case497.jpg",
+      "imageAlt": "单色水彩城市旅行海报",
+      "sourceLabel": "@Goodmanprotocol",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2062564327140503787",
+      "prompt": "Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework.\n\nAspect ratio: 4:5 vertical composition optimized for poster and social media presentation.\n\nA peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood.\n\nThe composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster.\n\nHandcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.",
+      "promptPreview": "Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework. Aspect ratio: 4:5 vertical composition optimized fo",
+      "category": "Posters & Typography",
+      "styles": [
+        "UI",
+        "Poster",
+        "Illustration"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-497"
+    },
+    {
+      "id": 496,
+      "title": "水雕品牌 Logo 六宫格",
+      "image": "/images/case496.jpg",
+      "imageAlt": "水雕品牌 Logo 六宫格",
+      "sourceLabel": "@AIwithSynthia",
+      "sourceUrl": "https://x.com/AIwithSynthia/status/2062521441141088599",
+      "prompt": "Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.",
+      "promptPreview": "Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpte",
+      "category": "Brand & Logos",
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-496"
+    },
+    {
+      "id": 495,
+      "title": "巴黎街头故事书插画",
+      "image": "/images/case495.jpg",
+      "imageAlt": "巴黎街头故事书插画",
+      "sourceLabel": "@MissDelulu9",
+      "sourceUrl": "https://x.com/MissDelulu9/status/2062376738500526347",
+      "prompt": "Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.",
+      "promptPreview": "Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a",
+      "category": "Illustration & Art",
+      "styles": [
+        "Illustration"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-495"
+    },
+    {
+      "id": 494,
+      "title": "电动巴士工程信息图",
+      "image": "/images/case494.jpg",
+      "imageAlt": "电动巴士工程信息图",
+      "sourceLabel": "@j_smeaton99",
+      "sourceUrl": "https://x.com/j_smeaton99/status/2062365258984177766",
+      "prompt": "Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.\n\nThe composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system.\n\nVisual Direction\n\n• 1:1 square composition\n• Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics\n• Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents\n• Refined editorial typography hierarchy\n• Rounded modular information cards with clean spacing\n• Gentle realistic reflections and premium transit-system dividers\n• Minimal transportation engineering iconography\n• Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard\n• Thin precision annotation lines pointing toward key systems and technologies\n• Clean, organized “knowledge-first” layout with high information density but breathable spacing\n\nMain Subject Presentation\n\nA stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring:\n\n• sleek aerodynamic body design\n• panoramic windshield\n• illuminated destination display\n• low-floor accessibility layout\n• futuristic LED lighting systems\n• premium electric drivetrain details\n• realistic urban reflections\n• smart-city transportation realism\n\nSurround the bus with engineering callouts explaining:\n\n• battery pack technology\n• electric motor system\n• regenerative braking system\n• charging infrastructure compatibility\n• smart fleet management systems\n• passenger accessibility features\n• thermal battery management\n• energy-efficiency technologies\n• safety monitoring systems\n• intelligent driver assistance features\n\nInclude Modular Sections\n\n• E-Bus Overview\n• Technical Specifications\n• Vehicle Dimensions & Capacity\n• Powertrain & Energy System\n• Battery Technology Breakdown\n• Charging Solutions\n• Passenger Comfort Features\n• Safety & Reliability Systems\n• Fleet Management Technology\n• Environmental Impact Analysis\n• Operating Cost Comparison\n• Construction & Material Engineering\n• Sustainability Lifecycle Assessment\n• Smart-City Integration\n• Global Adoption Trends\n• “Did You Know?” Facts Section\n• Future of Electric Public Transport\n\nAdd Premium Visualization Modules\n\n• battery architecture diagrams\n• charging workflow graphics\n• energy-consumption charts\n• passenger-capacity visualizations\n• smart-city integration maps\n• drivetrain cutaway illustrations\n• environmental impact comparisons\n• fleet-management dashboards\n• vehicle blueprint dimensions\n• lifecycle sustainability graphics\n\nStyle Keywords\n\n“premium transportation encyclopedia”\n“editorial electric mobility handbook”\n“high-end public transit infographic”\n“scientific transportation poster”\n“museum-quality electric bus reference page”\n“modular smart-city knowledge system”\n“clean engineering editorial design”\n“ultra-detailed mobility visualization”\n“future transportation showcase”\n“sustainable urban mobility design”\n\nAvoid\n\n• generic vehicle advertisements\n• cluttered commercial brochure layouts\n• cartoon transportation styling\n• unrealistic flying-bus concepts\n• excessive cyberpunk neon overload\n• low-detail stock-vehicle renders\n\nFinal Goal\n\nThe final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.",
+      "promptPreview": "Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rath",
+      "category": "Charts & Infographics",
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-494"
+    },
     {
       "id": 493,
       "title": "东京旅行 13 格视频封面",

@@ -10903,3 +10903,227 @@ Young female travel vlogger exploring Tokyo across 13 candid moments in a grid c
 ```
 
 ***
+
+<a name="case-494"></a>
+
+### 例 494：电动巴士工程信息图
+
+![电动巴士工程信息图](../data/images/case494.jpg)
+
+**来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
+
+**提示词：**
+
+```text
+Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system.
+
+Visual Direction
+
+• 1:1 square composition
+• Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics
+• Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium transit-system dividers
+• Minimal transportation engineering iconography
+• Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard
+• Thin precision annotation lines pointing toward key systems and technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation
+
+A stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring:
+
+• sleek aerodynamic body design
+• panoramic windshield
+• illuminated destination display
+• low-floor accessibility layout
+• futuristic LED lighting systems
+• premium electric drivetrain details
+• realistic urban reflections
+• smart-city transportation realism
+
+Surround the bus with engineering callouts explaining:
+
+• battery pack technology
+• electric motor system
+• regenerative braking system
+• charging infrastructure compatibility
+• smart fleet management systems
+• passenger accessibility features
+• thermal battery management
+• energy-efficiency technologies
+• safety monitoring systems
+• intelligent driver assistance features
+
+Include Modular Sections
+
+• E-Bus Overview
+• Technical Specifications
+• Vehicle Dimensions & Capacity
+• Powertrain & Energy System
+• Battery Technology Breakdown
+• Charging Solutions
+• Passenger Comfort Features
+• Safety & Reliability Systems
+• Fleet Management Technology
+• Environmental Impact Analysis
+• Operating Cost Comparison
+• Construction & Material Engineering
+• Sustainability Lifecycle Assessment
+• Smart-City Integration
+• Global Adoption Trends
+• “Did You Know?” Facts Section
+• Future of Electric Public Transport
+
+Add Premium Visualization Modules
+
+• battery architecture diagrams
+• charging workflow graphics
+• energy-consumption charts
+• passenger-capacity visualizations
+• smart-city integration maps
+• drivetrain cutaway illustrations
+• environmental impact comparisons
+• fleet-management dashboards
+• vehicle blueprint dimensions
+• lifecycle sustainability graphics
+
+Style Keywords
+
+“premium transportation encyclopedia”
+“editorial electric mobility handbook”
+“high-end public transit infographic”
+“scientific transportation poster”
+“museum-quality electric bus reference page”
+“modular smart-city knowledge system”
+“clean engineering editorial design”
+“ultra-detailed mobility visualization”
+“future transportation showcase”
+“sustainable urban mobility design”
+
+Avoid
+
+• generic vehicle advertisements
+• cluttered commercial brochure layouts
+• cartoon transportation styling
+• unrealistic flying-bus concepts
+• excessive cyberpunk neon overload
+• low-detail stock-vehicle renders
+
+Final Goal
+
+The final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.
+```
+
+***
+
+<a name="case-495"></a>
+
+### 例 495：巴黎街头故事书插画
+
+![巴黎街头故事书插画](../data/images/case495.jpg)
+
+**来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
+
+**提示词：**
+
+```text
+Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
+```
+
+***
+
+<a name="case-496"></a>
+
+### 例 496：水雕品牌 Logo 六宫格
+
+![水雕品牌 Logo 六宫格](../data/images/case496.jpg)
+
+**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
+
+**提示词：**
+
+```text
+Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
+```
+
+***
+
+<a name="case-497"></a>
+
+### 例 497：单色水彩城市旅行海报
+
+![单色水彩城市旅行海报](../data/images/case497.jpg)
+
+**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
+
+**提示词：**
+
+```text
+Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework.
+
+Aspect ratio: 4:5 vertical composition optimized for poster and social media presentation.
+
+A peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood.
+
+The composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster.
+
+Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.
+```
+
+***
+
+<a name="case-498"></a>
+
+### 例 498：铅笔画背景 3D 分身
+
+![铅笔画背景 3D 分身](../data/images/case498.jpg)
+
+**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
+
+**提示词：**
+
+```text
+Create a handrawn pencil illustration of [image] yawning on paper, as background.
+
+Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio
+```
+
+***
+
+<a name="case-499"></a>
+
+### 例 499：极简精品店全身时尚写真
+
+![极简精品店全身时尚写真](../data/images/case499.jpg)
+
+**来源：** [@john_my07](https://x.com/john_my07/status/2062579742759649486)
+
+**提示词：**
+
+```text
+A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.
+```
+
+***
+
+<a name="case-500"></a>
+
+### 例 500：梦幻花冠仙境肖像
+
+![梦幻花冠仙境肖像](../data/images/case500.jpg)
+
+**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
+
+**提示词：**
+
+```text
+Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
+
+The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.
+```
+
+***

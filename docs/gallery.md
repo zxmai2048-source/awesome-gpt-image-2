@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 493。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 500。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-493](./gallery-part-2.md)
+- [Part 2：例 166-500](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -153,22 +153,29 @@
 - [例 491：Y2K 高楼浴室镜面自拍](./gallery-part-2.md#case-491)
 - [例 492：黑色高定酒店套房写真](./gallery-part-2.md#case-492)
 - [例 493：东京旅行 13 格视频封面](./gallery-part-2.md#case-493)
+- [例 494：电动巴士工程信息图](./gallery-part-2.md#case-494)
+- [例 495：巴黎街头故事书插画](./gallery-part-2.md#case-495)
+- [例 496：水雕品牌 Logo 六宫格](./gallery-part-2.md#case-496)
+- [例 497：单色水彩城市旅行海报](./gallery-part-2.md#case-497)
+- [例 498：铅笔画背景 3D 分身](./gallery-part-2.md#case-498)
+- [例 499：极简精品店全身时尚写真](./gallery-part-2.md#case-499)
+- [例 500：梦幻花冠仙境肖像](./gallery-part-2.md#case-500)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-493，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-500，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
 - UI与界面：73
-- 图表与信息可视化：51
-- 海报与排版：77
+- 图表与信息可视化：52
+- 海报与排版：78
 - 商品与电商：38
-- 品牌与标志：24
+- 品牌与标志：25
 - 建筑与空间：12
-- 摄影与写实：68
-- 插画与艺术：50
+- 摄影与写实：70
+- 插画与艺术：52
 - 人物与角色：23
 - 场景与叙事：20
 - 历史与古风题材：16
@@ -249,7 +256,7 @@
 
 <a name="cat-infographic"></a>
 
-### 📊 图表与信息可视化 · 51 cases
+### 📊 图表与信息可视化 · 52 cases
 
 - [例 8：科普百科图](./gallery-part-1.md#case-8)
 - [例 14：信息图可视化设计](./gallery-part-1.md#case-14)
@@ -302,10 +309,11 @@
 - [例 457：运动轨迹舞者光绘海报](./gallery-part-2.md#case-457)
 - [例 469：导览式科普绘本](./gallery-part-2.md#case-469)
 - [例 463：黑色吊带袜单款图鉴展示](./gallery-part-2.md#case-463)
+- [例 494：电动巴士工程信息图](./gallery-part-2.md#case-494)
 
 <a name="cat-poster"></a>
 
-### 📰 海报与排版 · 77 cases
+### 📰 海报与排版 · 78 cases
 
 - [例 3：足球主题电影海报](./gallery-part-1.md#case-3)
 - [例 5：主题海报版式设计](./gallery-part-1.md#case-5)
@@ -385,6 +393,7 @@
 - [例 481：韩系春日 scrapbook 海报](./gallery-part-2.md#case-481)
 - [例 484：霓虹涂鸦黑白人像](./gallery-part-2.md#case-484)
 - [例 486：RCB 冠军混合媒介海报](./gallery-part-2.md#case-486)
+- [例 497：单色水彩城市旅行海报](./gallery-part-2.md#case-497)
 
 <a name="cat-product"></a>
 
@@ -431,7 +440,7 @@
 
 <a name="cat-brand"></a>
 
-### 🏷️ 品牌与标志 · 24 cases
+### 🏷️ 品牌与标志 · 25 cases
 
 - [例 130：界面交互设计图](./gallery-part-1.md#case-130)
 - [例 132：界面交互设计图](./gallery-part-1.md#case-132)
@@ -457,6 +466,7 @@
 - [例 459：品牌奶茶 KV 概念海报](./gallery-part-2.md#case-459)
 
 - [例 478：夹层式品牌编辑海报](./gallery-part-2.md#case-478)
+- [例 496：水雕品牌 Logo 六宫格](./gallery-part-2.md#case-496)
 
 <a name="cat-architecture"></a>
 
@@ -476,7 +486,7 @@
 
 <a name="cat-photo"></a>
 
-### 📷 摄影与写实 · 68 cases
+### 📷 摄影与写实 · 70 cases
 
 - [例 24：漫画分镜叙事设计](./gallery-part-1.md#case-24)
 - [例 26：建筑空间场景图](./gallery-part-1.md#case-26)
@@ -548,10 +558,12 @@
 - [例 490：双重曝光时尚肖像](./gallery-part-2.md#case-490)
 - [例 491：Y2K 高楼浴室镜面自拍](./gallery-part-2.md#case-491)
 - [例 492：黑色高定酒店套房写真](./gallery-part-2.md#case-492)
+- [例 499：极简精品店全身时尚写真](./gallery-part-2.md#case-499)
+- [例 500：梦幻花冠仙境肖像](./gallery-part-2.md#case-500)
 
 <a name="cat-illustration"></a>
 
-### 🎨 插画与艺术 · 50 cases
+### 🎨 插画与艺术 · 52 cases
 
 - [例 6：插画艺术创作图](./gallery-part-1.md#case-6)
 - [例 22：插画艺术风格创作](./gallery-part-1.md#case-22)
@@ -605,6 +617,8 @@
 - [例 476：早安拿铁微缩女孩](./gallery-part-2.md#case-476)
 
 - [例 479：杂志纸艺拼贴重绘](./gallery-part-2.md#case-479)
+- [例 495：巴黎街头故事书插画](./gallery-part-2.md#case-495)
+- [例 498：铅笔画背景 3D 分身](./gallery-part-2.md#case-498)
 
 <a name="cat-character"></a>
 
