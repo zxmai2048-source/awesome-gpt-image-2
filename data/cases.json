@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 497,
+  "totalCases": 502,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,119 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 505,
+      "title": "夜间手机光沙发肖像",
+      "image": "/images/case505.jpg",
+      "imageAlt": "夜间手机光沙发肖像",
+      "sourceLabel": "@iamaiistudio",
+      "sourceUrl": "https://x.com/iamaiistudio/status/2063231612478017579",
+      "prompt": "A young adult woman with soft refined features, thin metal glasses, and shoulder-length dark tousled hair, leaning forward across a dark upholstered couch at night. She wears a pale cream lace-trim camisole with thin straps and matching soft shorts. One hand holds a smartphone close to the foreground, the screen glow casting cool reflections on her fingers and glasses lenses. Her expression is dreamy and softly tired, eyes lifted toward the camera as if she just looked up from scrolling, lips gently closed in a relaxed pout.\n\nShot in a vertical 3:4 frame at slightly above eye level, medium close-up to three-quarter portrait. Warm dim tungsten room light mixed with cool phone-screen reflections, no flash, soft falloff across the couch and wall. Shallow depth of field, soft low-light grain, slight motion blur, natural imperfect sharpness. Background: plain beige-gray wall, minimal decor, late-night atmosphere. Soft glam makeup: subtle eyeliner, long lashes, smooth skin, glossy pink-nude lips. Realistic social-media night portrait aesthetic.",
+      "promptPreview": "A young adult woman with soft refined features, thin metal glasses, and shoulder-length dark tousled hair, leaning forward across a dark upholstered couch at night. She wears a pale cream lace-trim camisole with thin str",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-505"
+    },
+    {
+      "id": 504,
+      "title": "粗糙涂鸦人像改图",
+      "image": "/images/case504.jpg",
+      "imageAlt": "粗糙涂鸦人像改图",
+      "sourceLabel": "@Shorelyn_",
+      "sourceUrl": "https://x.com/Shorelyn_/status/2063235707632533954",
+      "prompt": "Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.\n\nCreate exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.",
+      "promptPreview": "Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper. Create exaggerated facial features with awkward",
+      "category": "Illustration & Art",
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-504"
+    },
+    {
+      "id": 503,
+      "title": "霓虹设计师 3D 海报",
+      "image": "/images/case503.jpg",
+      "imageAlt": "霓虹设计师 3D 海报",
+      "sourceLabel": "@AiwithLariab",
+      "sourceUrl": "https://x.com/AiwithLariab/status/2063240283786187251",
+      "prompt": "Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.\n\nSurround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as \"DESIGN MODE\", \"CREATE • BUILD • INSPIRE\", and \"CREATIVE NEVER SLEEPS\" integrated into the scene.\n\nInclude a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.",
+      "promptPreview": "Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with",
+      "category": "Posters & Typography",
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-503"
+    },
+    {
+      "id": 502,
+      "title": "黑桃国王递归扑克牌",
+      "image": "/images/case502.jpg",
+      "imageAlt": "黑桃国王递归扑克牌",
+      "sourceLabel": "@Professor_134",
+      "sourceUrl": "https://x.com/Professor_134/status/2063244295977800057",
+      "prompt": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose, lips, beard pattern, hairstyle, hair texture, skin tone, skin texture, and overall recognizable appearance. Do not beautify, alter, or reinterpret my face. Maintain realistic anatomy and authentic likeness.\n\nCreate an ultra-detailed, cinematic, surreal luxury playing-card artwork.\n\nThe main subject is me as the King of Spades, occupying the full design of a magnificent, royal Ace-quality playing card. I wear elaborate black-and-silver spade-themed regalia, a crown forged from obsidian and polished steel, intricate embroidered armor, and flowing royal garments decorated with subtle spade symbols. My expression is calm, intelligent, and powerful.\n\nIn my right hand, I am holding a pristine Ace of Spades card.\n\nThe creative twist: the Ace of Spades I am holding is not a normal card. It contains another complete playing-card illustration. Inside that card, I again appear as the King of Spades, and that entire card is being elegantly held between the fingers of a majestic Queen of Hearts. The Queen is graceful, regal, and visually striking, dressed in rich crimson and gold royal attire adorned with heart motifs.\n\nThe illusion continues with subtle recursive storytelling: the Queen of Hearts appears to be examining the card with fascination, creating a “card within a card” visual paradox. The composition should feel like a legendary tale of power, strategy, love, and destiny intertwined.\n\nAdd impossible Escher-inspired visual design elements:\n•Infinite recursion effect\n•Card-world folding into itself\n•Floating spade and heart symbols transforming into ravens and rose petals\n•Ornate golden borders extending beyond physical card edges\n•Royal chess pieces suspended in midair\n•Fractal patterns hidden within the card engravings\n•Elegant smoke forming suit symbols\n•Dimensional portals emerging from card corners\n\nStyle: ultra-realistic fantasy realism mixed with luxury casino art, Renaissance royal portraiture, and modern cinematic concept art.\n\nLighting: dramatic chiaroscuro, volumetric god rays, rich contrast, glowing metallic highlights, subtle magical energy around the Ace of Spades.\n\nColor palette:\n•Deep blacks\n•Silver chrome\n•Ivory white\n•Crimson red\n•Antique gold accents\n\nComposition:\n•Vertical masterpiece\n•Museum-quality detail\n•Hyper-realistic textures\n•Intricate card engravings\n•Perfectly symmetrical playing-card aesthetics blended with cinematic depth\n•Sharp focus on my face\n•Extremely high identity fidelity\n•Epic storytelling through visual symbolism\n\nThe final image should feel like the cover of a legendary fantasy card game where the King of Spades has become self-aware, existing across multiple layers of reality while being held in the hands of fate itself, represented by the Queen of Hearts.",
+      "promptPreview": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose, lips, beard patter",
+      "category": "Characters & People",
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-502"
+    },
+    {
+      "id": 501,
+      "title": "夏日牵手回眸电影肖像",
+      "image": "/images/case501.jpg",
+      "imageAlt": "夏日牵手回眸电影肖像",
+      "sourceLabel": "@iamaiistudio",
+      "sourceUrl": "https://x.com/iamaiistudio/status/2063247373388992790",
+      "prompt": "Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow, not over-filtered.\n\nSubject: a young beautiful adult East Asian woman, [describe face shape and features, e.g. soft heart-shaped face, refined classical features, bright almond/fox eyes, petite nose bridge, naturally full lips], overall vibe sweet, sunny, energetic, cute with a touch of allure. Gaze highly engaging — bright, clear, natural catchlights, as if it speaks; corners of mouth slightly lifted, expression gentle, vivid, natural.\n\nShe walks along a [scene, e.g. garden stone path / tree-lined lane / European street / courtyard], right hand reaching back to hold the hand of someone behind her; only their hand appears in the lower-left corner — like a first-person couple's POV snapshot. She glances back at the camera while her body stays in a forward walking motion, posture elegant and natural, clearly a candid captured moment with a faint in-love feeling.\n\nLong [hair color] hair, [style, e.g. naturally wavy / relaxed big waves / airy bangs / half-up], many strands tousled and flying in the wind, richly layered and dynamic. Strong natural side-backlight rims the hair edges — clean, crisp rim light and semi-translucent glow, hair edges lit as if by sunlight, light and luminous. This is the core highlight of the image.\n\nShe wears [outfit, e.g. white lace slip dress / beige slip dress / light-blue short-sleeve top with white skirt / light-pink fitted dress], fabric texture natural, material light and soft. Bright natural summer sunlight realistically warms her skin, shoulders, collarbone, and clothing with soft, clean highlight transitions.\n\nSkin texture: extremely realistic — visible fine pores, natural skin texture, faint imperfections, subtle tone variation, soft sheen. Cheeks, nose tip, shoulders show natural delicate gradations in sunlight. Translucent, healthy, real and refined — no plastic look, no waxwork, no over-smoothing.\n\nBackground: soft atmospheric blur, never distracting.\n\nAvoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expression, dead eyes, stiff poses, overall yellow cast, overexposed face, distorted features, wrong fingers, deformed hands, cluttered background, heavy influencer retouching.",
+      "promptPreview": "Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic",
+        "Character",
+        "Classical"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-501"
+    },
     {
       "id": 500,
       "title": "梦幻花冠仙境肖像",

@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 500。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 505。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-500](./gallery-part-2.md)
+- [Part 2：例 166-505](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -160,23 +160,28 @@
 - [例 498：铅笔画背景 3D 分身](./gallery-part-2.md#case-498)
 - [例 499：极简精品店全身时尚写真](./gallery-part-2.md#case-499)
 - [例 500：梦幻花冠仙境肖像](./gallery-part-2.md#case-500)
+- [例 501：夏日牵手回眸电影肖像](./gallery-part-2.md#case-501)
+- [例 502：黑桃国王递归扑克牌](./gallery-part-2.md#case-502)
+- [例 503：霓虹设计师 3D 海报](./gallery-part-2.md#case-503)
+- [例 504：粗糙涂鸦人像改图](./gallery-part-2.md#case-504)
+- [例 505：夜间手机光沙发肖像](./gallery-part-2.md#case-505)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-500，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-505，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
 - UI与界面：73
 - 图表与信息可视化：52
-- 海报与排版：78
+- 海报与排版：79
 - 商品与电商：38
 - 品牌与标志：25
 - 建筑与空间：12
-- 摄影与写实：70
-- 插画与艺术：52
-- 人物与角色：23
+- 摄影与写实：72
+- 插画与艺术：53
+- 人物与角色：24
 - 场景与叙事：20
 - 历史与古风题材：16
 - 文档与出版物：10
@@ -313,7 +318,7 @@
 
 <a name="cat-poster"></a>
 
-### 📰 海报与排版 · 78 cases
+### 📰 海报与排版 · 79 cases
 
 - [例 3：足球主题电影海报](./gallery-part-1.md#case-3)
 - [例 5：主题海报版式设计](./gallery-part-1.md#case-5)
@@ -394,6 +399,7 @@
 - [例 484：霓虹涂鸦黑白人像](./gallery-part-2.md#case-484)
 - [例 486：RCB 冠军混合媒介海报](./gallery-part-2.md#case-486)
 - [例 497：单色水彩城市旅行海报](./gallery-part-2.md#case-497)
+- [例 503：霓虹设计师 3D 海报](./gallery-part-2.md#case-503)
 
 <a name="cat-product"></a>
 
@@ -486,7 +492,7 @@
 
 <a name="cat-photo"></a>
 
-### 📷 摄影与写实 · 70 cases
+### 📷 摄影与写实 · 72 cases
 
 - [例 24：漫画分镜叙事设计](./gallery-part-1.md#case-24)
 - [例 26：建筑空间场景图](./gallery-part-1.md#case-26)
@@ -560,10 +566,12 @@
 - [例 492：黑色高定酒店套房写真](./gallery-part-2.md#case-492)
 - [例 499：极简精品店全身时尚写真](./gallery-part-2.md#case-499)
 - [例 500：梦幻花冠仙境肖像](./gallery-part-2.md#case-500)
+- [例 501：夏日牵手回眸电影肖像](./gallery-part-2.md#case-501)
+- [例 505：夜间手机光沙发肖像](./gallery-part-2.md#case-505)
 
 <a name="cat-illustration"></a>
 
-### 🎨 插画与艺术 · 52 cases
+### 🎨 插画与艺术 · 53 cases
 
 - [例 6：插画艺术创作图](./gallery-part-1.md#case-6)
 - [例 22：插画艺术风格创作](./gallery-part-1.md#case-22)
@@ -619,10 +627,11 @@
 - [例 479：杂志纸艺拼贴重绘](./gallery-part-2.md#case-479)
 - [例 495：巴黎街头故事书插画](./gallery-part-2.md#case-495)
 - [例 498：铅笔画背景 3D 分身](./gallery-part-2.md#case-498)
+- [例 504：粗糙涂鸦人像改图](./gallery-part-2.md#case-504)
 
 <a name="cat-character"></a>
 
-### 🧍 人物与角色 · 23 cases
+### 🧍 人物与角色 · 24 cases
 
 - [例 25：综合应用场景图](./gallery-part-1.md#case-25)
 - [例 27：人物角色设定图](./gallery-part-1.md#case-27)
@@ -649,6 +658,7 @@
 - [例 473：ROGUE VIPER 游戏概念设定板](./gallery-part-2.md#case-473)
 
 - [例 480：粉丝速写本角色页](./gallery-part-2.md#case-480)
+- [例 502：黑桃国王递归扑克牌](./gallery-part-2.md#case-502)
 
 <a name="cat-scene"></a>
 

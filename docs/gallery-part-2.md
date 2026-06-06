@@ -11127,3 +11127,148 @@ The scene is bathed in soft diffused morning light, creating a luminous glow aro
 ```
 
 ***
+
+<a name="case-501"></a>
+
+### 例 501：夏日牵手回眸电影肖像
+
+![夏日牵手回眸电影肖像](../data/images/case501.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
+
+**提示词：**
+
+```text
+Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow, not over-filtered.
+
+Subject: a young beautiful adult East Asian woman, [describe face shape and features, e.g. soft heart-shaped face, refined classical features, bright almond/fox eyes, petite nose bridge, naturally full lips], overall vibe sweet, sunny, energetic, cute with a touch of allure. Gaze highly engaging — bright, clear, natural catchlights, as if it speaks; corners of mouth slightly lifted, expression gentle, vivid, natural.
+
+She walks along a [scene, e.g. garden stone path / tree-lined lane / European street / courtyard], right hand reaching back to hold the hand of someone behind her; only their hand appears in the lower-left corner — like a first-person couple's POV snapshot. She glances back at the camera while her body stays in a forward walking motion, posture elegant and natural, clearly a candid captured moment with a faint in-love feeling.
+
+Long [hair color] hair, [style, e.g. naturally wavy / relaxed big waves / airy bangs / half-up], many strands tousled and flying in the wind, richly layered and dynamic. Strong natural side-backlight rims the hair edges — clean, crisp rim light and semi-translucent glow, hair edges lit as if by sunlight, light and luminous. This is the core highlight of the image.
+
+She wears [outfit, e.g. white lace slip dress / beige slip dress / light-blue short-sleeve top with white skirt / light-pink fitted dress], fabric texture natural, material light and soft. Bright natural summer sunlight realistically warms her skin, shoulders, collarbone, and clothing with soft, clean highlight transitions.
+
+Skin texture: extremely realistic — visible fine pores, natural skin texture, faint imperfections, subtle tone variation, soft sheen. Cheeks, nose tip, shoulders show natural delicate gradations in sunlight. Translucent, healthy, real and refined — no plastic look, no waxwork, no over-smoothing.
+
+Background: soft atmospheric blur, never distracting.
+
+Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expression, dead eyes, stiff poses, overall yellow cast, overexposed face, distorted features, wrong fingers, deformed hands, cluttered background, heavy influencer retouching.
+```
+
+***
+
+<a name="case-502"></a>
+
+### 例 502：黑桃国王递归扑克牌
+
+![黑桃国王递归扑克牌](../data/images/case502.jpg)
+
+**来源：** [@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
+
+**提示词：**
+
+```text
+Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose, lips, beard pattern, hairstyle, hair texture, skin tone, skin texture, and overall recognizable appearance. Do not beautify, alter, or reinterpret my face. Maintain realistic anatomy and authentic likeness.
+
+Create an ultra-detailed, cinematic, surreal luxury playing-card artwork.
+
+The main subject is me as the King of Spades, occupying the full design of a magnificent, royal Ace-quality playing card. I wear elaborate black-and-silver spade-themed regalia, a crown forged from obsidian and polished steel, intricate embroidered armor, and flowing royal garments decorated with subtle spade symbols. My expression is calm, intelligent, and powerful.
+
+In my right hand, I am holding a pristine Ace of Spades card.
+
+The creative twist: the Ace of Spades I am holding is not a normal card. It contains another complete playing-card illustration. Inside that card, I again appear as the King of Spades, and that entire card is being elegantly held between the fingers of a majestic Queen of Hearts. The Queen is graceful, regal, and visually striking, dressed in rich crimson and gold royal attire adorned with heart motifs.
+
+The illusion continues with subtle recursive storytelling: the Queen of Hearts appears to be examining the card with fascination, creating a “card within a card” visual paradox. The composition should feel like a legendary tale of power, strategy, love, and destiny intertwined.
+
+Add impossible Escher-inspired visual design elements:
+•Infinite recursion effect
+•Card-world folding into itself
+•Floating spade and heart symbols transforming into ravens and rose petals
+•Ornate golden borders extending beyond physical card edges
+•Royal chess pieces suspended in midair
+•Fractal patterns hidden within the card engravings
+•Elegant smoke forming suit symbols
+•Dimensional portals emerging from card corners
+
+Style: ultra-realistic fantasy realism mixed with luxury casino art, Renaissance royal portraiture, and modern cinematic concept art.
+
+Lighting: dramatic chiaroscuro, volumetric god rays, rich contrast, glowing metallic highlights, subtle magical energy around the Ace of Spades.
+
+Color palette:
+•Deep blacks
+•Silver chrome
+•Ivory white
+•Crimson red
+•Antique gold accents
+
+Composition:
+•Vertical masterpiece
+•Museum-quality detail
+•Hyper-realistic textures
+•Intricate card engravings
+•Perfectly symmetrical playing-card aesthetics blended with cinematic depth
+•Sharp focus on my face
+•Extremely high identity fidelity
+•Epic storytelling through visual symbolism
+
+The final image should feel like the cover of a legendary fantasy card game where the King of Spades has become self-aware, existing across multiple layers of reality while being held in the hands of fate itself, represented by the Queen of Hearts.
+```
+
+***
+
+<a name="case-503"></a>
+
+### 例 503：霓虹设计师 3D 海报
+
+![霓虹设计师 3D 海报](../data/images/case503.jpg)
+
+**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
+
+**提示词：**
+
+```text
+Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
+
+Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
+
+Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
+```
+
+***
+
+<a name="case-504"></a>
+
+### 例 504：粗糙涂鸦人像改图
+
+![粗糙涂鸦人像改图](../data/images/case504.jpg)
+
+**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
+
+**提示词：**
+
+```text
+Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
+
+Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
+```
+
+***
+
+<a name="case-505"></a>
+
+### 例 505：夜间手机光沙发肖像
+
+![夜间手机光沙发肖像](../data/images/case505.jpg)
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
+
+**提示词：**
+
+```text
+A young adult woman with soft refined features, thin metal glasses, and shoulder-length dark tousled hair, leaning forward across a dark upholstered couch at night. She wears a pale cream lace-trim camisole with thin straps and matching soft shorts. One hand holds a smartphone close to the foreground, the screen glow casting cool reflections on her fingers and glasses lenses. Her expression is dreamy and softly tired, eyes lifted toward the camera as if she just looked up from scrolling, lips gently closed in a relaxed pout.
+
+Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to three-quarter portrait. Warm dim tungsten room light mixed with cool phone-screen reflections, no flash, soft falloff across the couch and wall. Shallow depth of field, soft low-light grain, slight motion blur, natural imperfect sharpness. Background: plain beige-gray wall, minimal decor, late-night atmosphere. Soft glam makeup: subtle eyeliner, long lashes, smooth skin, glossy pink-nude lips. Realistic social-media night portrait aesthetic.
+```
+
+***
