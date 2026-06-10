@@ -38,7 +38,7 @@ import wechatCommunityImage from './assets/wechat-community.jpg';
 import skillExampleImage from '../agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png';
 
 const fallbackRepoUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
-const sponsorUrl = 'https://github.com/sponsors/freestylefly';
+const sponsorUrl = 'https://apimart.ai/register?aff=oQgzUQ';
 const gaMeasurementId = import.meta.env.VITE_GA_MEASUREMENT_ID;
 const watchaLogoUrl =
   'https://watcha.tos-cn-beijing.volces.com/products/logo/1752064513_guan-cha-insights.png?x-tos-process=image/resize,w_720/format,webp';
@@ -51,7 +51,7 @@ const copy = {
     navSkill: 'Skill',
     navTemplates: 'Templates',
     navCommunity: 'Community',
-    navSponsor: 'Sponsor',
+    navSponsor: 'API',
     communityQrAlt: 'WeChat community invite card for GPT-Image2',
     eyebrow: 'Live GPT-Image2 prompt gallery',
     title: 'From viral images to reusable prompts.',
@@ -59,8 +59,8 @@ const copy = {
       'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts, test image generation, explore industrial templates, and join the creator community.',
     explore: 'Explore cases',
     githubProject: 'GitHub project',
-    sponsorProject: 'Sponsor project',
-    sponsorProjectLabel: 'Sponsor this project on GitHub Sponsors',
+    sponsorProject: 'API',
+    sponsorProjectLabel: 'Open APIMart API',
     cases: 'cases',
     categories: 'categories',
     templates: 'templates',
@@ -263,7 +263,7 @@ const copy = {
     navSkill: '技能',
     navTemplates: '模板',
     navCommunity: '交流群',
-    navSponsor: '赞助',
+    navSponsor: 'API',
     communityQrAlt: 'GPT-Image2 微信交流群邀请卡',
     eyebrow: '实时更新的 GPT-Image2 提示词画廊',
     title: '从爆款图片，到可复用 Prompt。',
@@ -271,8 +271,8 @@ const copy = {
       '一个面向 GPT-Image2 创作的可视化工作台：浏览真实案例、复制 Prompt、在线测试生图、查看工业级模板，并加入创作者交流群。',
     explore: '浏览案例',
     githubProject: 'GitHub 项目',
-    sponsorProject: '赞助项目',
-    sponsorProjectLabel: '在 GitHub Sponsors 赞助这个项目',
+    sponsorProject: 'API',
+    sponsorProjectLabel: '打开 APIMart API',
     cases: '个案例',
     categories: '个分类',
     templates: '套模板',
